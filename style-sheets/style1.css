@@ -9,4 +9,6 @@
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  box-shadow: 60 -16 black;
+  border-radius: 5
 }
