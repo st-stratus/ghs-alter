@@ -12,3 +12,6 @@
   box-shadow: 60 -16 black;
   border-radius: 5px;
 }
+.button:hover {
+  background-color: #57aeff;
+}
